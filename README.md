@@ -15,7 +15,7 @@ This project analyzes IPL cricket data using PySpark, a powerful big data framew
 
 ---
 
-## **Technologies Used**
+## **Tech Stack**
 - **PySpark**: Distributed data processing
 - **SparkSQL**: Querying structured data
 - **AWS** (S3 Bucket): Scalable deployment
